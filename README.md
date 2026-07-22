@@ -14,7 +14,7 @@ This repository contains:
 - **`app.py`**: An interactive web app built using Streamlit for real-time model inference and user interactions.
 - **`classify.ipynb`**: A comprehensive Jupyter Notebook covering data cleaning, exploratory data analysis (EDA), model training, and performance evaluation.
 - **`earthquake_classifier_model.pkl`**: A serialized, pre-trained scikit-learn classifier ready for deployment.
-- **`.devcontainer/`**: Configuration for automated, reproducible development environments with VS Code / GitHub Codespaces.
+- **`.devcontainer/`**: Configuration for automated, reproducible development environments with VS Code / GitHub Codespaces. This is for streamlit app.
 
 ---
 
